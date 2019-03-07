@@ -1,2 +1,2 @@
-# SIT-LAB7
+# SITL7
 S Function
